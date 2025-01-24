@@ -1,4 +1,4 @@
-Smart Water Management System
+Smart Water Management System:
 This project implements a Smart Water Management System using MQTT (Message Queuing Telemetry Transport) for communication between components. The system monitors water levels and quality in a main tank and a house tank, controls a water pump, and notifies the user (via a mobile app) of critical conditions.
 
 Features
